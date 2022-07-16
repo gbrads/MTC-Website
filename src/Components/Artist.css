@@ -1,0 +1,45 @@
+body {
+    background-color: black;
+}
+.Artist {
+    width: 100vw;
+    height: 100vh;
+    background-color: rgb(0, 0, 0);
+}
+.center {
+    position: absolute;
+    align-items: center;
+    padding: 2.5em;
+    margin-top: 5em;
+}
+.Artist p {
+    color: rgb(96, 96, 96);
+}
+.Artist h1 {
+    color: rgb(200, 200, 200);
+}
+.Artist h2 {
+    color: rgb(96, 96, 96);
+}
+.Artist h3 {
+    color: rgb(169, 169, 169);
+}
+.socials {
+    padding-top: 2em;
+}
+.vid {
+    height: 70vh;
+    margin-top: -5em;
+}
+@media screen and (max-width: 415px) {
+    .vid {
+      position: relative;
+    }
+}
+@media screen and (max-width: 1172px) {
+    .vid {
+      height: 100vh;
+      width: 100vw;
+      object-fit: cover;
+    }
+}

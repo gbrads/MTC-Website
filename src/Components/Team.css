@@ -1,0 +1,21 @@
+.Team {
+    background-color: black;
+    height: 100vh;
+    width: 100vw;
+}
+.center {
+    position: absolute;
+    align-items: center;
+    padding: 2.5em;
+    margin-top: 5em;
+}
+.Team p {
+    color: rgb(96, 96, 96);
+}
+.Team h1 {
+    color: rgb(200, 200, 200);
+}
+.Team h3 {
+    color: rgb(200, 200, 200);
+    padding-top: 1em;
+}

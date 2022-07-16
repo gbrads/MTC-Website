@@ -1,0 +1,66 @@
+.Freq {
+    text-align: left;
+    padding-top: 20%;
+    padding-left: 10%;
+    padding-right: 10%;
+    max-width: 100vw;
+}
+.Faqs {
+  width: 100vw;
+  height: 100vh;
+}
+.tats {
+  position: absolute;
+  height: 100vh;
+  object-fit: contain;
+}
+.center {
+  position: absolute;
+  align-items: center;
+  padding: 2.5em;
+  margin-top: 5em;
+}
+.Faqs h1 {
+  color: rgb(200, 200, 200);
+}
+.accordion-item {
+    background-color: #42424210;
+    border-radius: 1em !important;
+    margin-bottom: 2em;
+    font-weight: 400;
+    color: rgb(150, 150, 150);
+    border: 0.1px solid #d4af37;
+    max-width: 100vw;
+}
+  
+.accordion-button::after {
+    background-image: none !important;
+    margin-left: 0;
+}
+  
+.accordion-button {
+    padding-bottom: 1.2em;
+    text-align: center;
+    background-color: transparent !important;
+    color: rgb(200, 200, 200) !important;
+    box-shadow: none !important;
+    align-items: center;
+    justify-content: center;
+    font-weight: 400;
+    font-size: 20px;
+    border: 2px solid transparent;
+    max-width: 100vw;
+}
+.accordion-button:focus {
+    border-color: transparent;
+}
+.collapsed:hover {
+    border-color: #d4af37;
+    border-radius: 0.6em !important;
+}
+@media screen and (max-width: 1172px) {
+  .Freq {
+    padding-top: 15em;
+    max-width: 100vw;
+  }
+}

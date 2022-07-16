@@ -1,0 +1,56 @@
+.Blueprint {
+    background-color: rgba(0, 0, 0, 0);
+    height: 100vh;
+    width: 100vw;
+}
+.roadmap {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 100vh;
+    padding-top: 4em;
+}
+.vid {
+    max-width: 100%;
+    max-height: 100vh;
+    object-fit: cover;
+    position: absolute;
+  }
+.center {
+    position: absolute;
+    align-items: center;
+    padding: 2.5em;
+    margin-top: 5em;
+}
+.Blueprint p {
+    color: rgb(96, 96, 96);
+}
+.Blueprint h1 {
+    color: rgb(200, 200, 200);
+}
+.Blueprint h2 {
+    color: rgb(96, 96, 96);
+}
+
+@media screen and (max-width: 1172px) {
+    .roadmap {
+      height: 100vh;
+      object-fit: cover;
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      padding-top: 12em;
+      
+    }
+}
+@media screen and (max-width: 700px) {
+    .roadmap {
+      height: 75vh;
+      object-fit: cover;
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      padding-top: 12em;
+      
+    }
+}
