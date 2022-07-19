@@ -53,7 +53,7 @@ function Faq() {
                         >
                         <Accordion.Header>When is the Official Launch Date?</Accordion.Header>
                         <Accordion.Body>
-                            The launch date will be released upon firther notice inside our Discord.
+                            The launch date will be released upon further notice inside our Discord.
                         </Accordion.Body>
                         </Accordion.Item>
                         <Accordion.Item

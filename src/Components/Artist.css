@@ -9,10 +9,8 @@ body {
 .center {
     position: absolute;
     align-items: center;
-    padding: 2.5em;
+    padding: 2em;
     margin-top: 5em;
-    margin-left: 5em;
-    margin-right: 5em;
 }
 .Artist p {
     color: rgb(96, 96, 96);
@@ -32,6 +30,7 @@ body {
 .vid {
     height: 70vh;
     margin-top: -5em;
+    padding-left: 7em;
 }
 .fixed-bot-pages {
     width: 200px;

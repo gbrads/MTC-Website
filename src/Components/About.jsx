@@ -1,18 +1,11 @@
-
+import React from "react";
 import "./About.css";
-import React, { Component } from 'react';
-import ReactDOM from 'react-dom';
-import "react-responsive-carousel/lib/styles/carousel.min.css"; // requires a loader
-import { Carousel } from 'react-responsive-carousel';
-import team1 from "../../src/Assets/team5.png";
-import team2 from "../../src/Assets/team4.png";
-import team3 from "../../src/Assets/team1.png";
-
+import vid from "../../src/Assets/vid.mp4";
 
 function About() {
   return (
     <section className="About" id="About">
-      <div className="container d-flex justify-content-center">
+      <div className="container">
         <div className="center">
           <h1>A LOOK <span style={{ backgroundImage: "linear-gradient(to bottom right, #D4A137, #e4b652)" }}>INSIDE</span></h1>
           <div className="row">
@@ -41,7 +34,7 @@ function About() {
             </div>
             <div className="col-md-6 mt-5">
               <div className="sticky">
-                
+                <video loop autoPlay muted className="vid" src={vid}></video>
               </div>
             </div>
           </div>

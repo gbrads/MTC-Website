@@ -8,7 +8,7 @@ const Roadmap = () => (
     <div className="container">
       <div className="center">
         <h1 className="title">
-          THE <span style={{ backgroundImage: "linear-gradient(to bottom right, #D4A137, #e4b652)"}}>BLUEPRINT</span>
+          THE <span style={{ backgroundImage: "linear-gradient(to bottom right, #D4A137, #e4b652)"}}>DRAWING BOARD</span>
         </h1>
         <div className="fixed-bot-pages">
             <div className="right-fixed">
