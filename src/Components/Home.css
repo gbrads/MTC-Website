@@ -24,7 +24,7 @@ a{
   display: flex;
   justify-content: space-between;
   align-items: center;
-  width: 450px;
+  width: 450px!important;
   position: fixed;
   bottom: 2%;
   right: 2%;
@@ -93,7 +93,6 @@ a{
   display: flex;
   justify-content: center;
   cursor: pointer;
-
   align-items: center;
   gap: 10px;
 }
@@ -118,7 +117,7 @@ a{
   }
   .fixed-bot {
     right: 0;
-    width: 90%;
+    width: 90%!important;
     left: 50%;
     transform: translateX(-50%);
     padding-inline: 2rem;

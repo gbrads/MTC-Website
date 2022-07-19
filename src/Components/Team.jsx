@@ -31,10 +31,10 @@ function Team() {
   const [activeFaq, setActiveFaq] = React.useState();
   return (
     <section className="Team" id="Team">
-      <div className="container">
+      <div className="container d-flex justify-content-center">
         <div className="center">
         <FadeInSection>
-            <h1 style={{marginBottom: 2 + 'em'}}>
+            <h1 style={{marginBottom: 1 + 'em'}}>
             CORE <span style={{ backgroundImage: "linear-gradient(to bottom right, #D4A137, #e4b652)"}}>TEAM</span>
             </h1>
           </FadeInSection>

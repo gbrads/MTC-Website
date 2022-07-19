@@ -12,6 +12,8 @@ body {
     align-items: center;
     padding: 2.5em;
     margin-top: 5em;
+    margin-left: 5em;
+    margin-right: 5em;
 }
 .About p {
     color: rgb(96, 96, 96);
@@ -20,7 +22,9 @@ body {
     color: rgb(200, 200, 200);
 }
 .About h2 {
-    color: rgb(96, 96, 96);
+    color: rgb(169, 169, 169);
+    font-style: bold, italic;
+    font-size: 18px;
 }
 .About h3 {
     color: rgb(169, 169, 169);
@@ -37,7 +41,6 @@ body {
     position: sticky;
     top: 0;
 }
-
 .fixed-bot-pages {
     width: 200px;
     position: fixed;

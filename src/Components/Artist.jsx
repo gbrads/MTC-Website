@@ -2,7 +2,7 @@ import React from "react";
 import "./Artist.css";
 import vid from "../../src/Assets/vid.mp4";
 
-function About() {
+function Artist() {
   return (
     <section className="Artist" id="Artist">
       <div className="container">
@@ -48,4 +48,4 @@ function About() {
   );
 }
 
-export default About;
+export default Artist;
