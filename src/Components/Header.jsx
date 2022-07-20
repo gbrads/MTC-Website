@@ -33,6 +33,9 @@ function Header() {
           <a href="https://meta-tattoo-club.gitbook.io/" target="_blank" className="nav-links">
             DOCS
           </a>
+          <a href="#" className="nav-links">
+            MINT
+          </a>
           <a href="https://twitter.com/metatattooclub" className="nav-links social">
             <p>TWITTER</p>
             <i className="fab fa-twitter"></i>

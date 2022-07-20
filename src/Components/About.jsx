@@ -24,11 +24,6 @@ function About() {
               <p style={{marginBottom: 2 + 'em'}}>$STZ is the lifeblood of MTC. You either got it or you don’t. Within the first month after launch we will be introducing a staking protocol for our community members. You will be able to yield $STZ daily by simple staking your god. As you start to accumulate $STZ you start to accumulate in store dollars, that you can use to purchase Meta Tattoo Club merchandise. Our store will include all types of drip that’ll make the squad look on point.</p>
               <p style={{marginBottom: 2 + 'em'}}>Another key utility also includes monthly treasure chests that will hold all sorts of HIGH ticket grand prizes. These prizes will get the MTC gang fired up and help entice community members to hold their NFTs delisted. In order to open a treasure chest you must purchase a raffle ticket with $STZ and all participants will be entered into a draw to win the prizes. We will be holding monthly community votes, where our DAO will make the decision on whether they want several prizes that month to be distributed or simple one big bag of guap for one lucky winner, the choice will always be yours family.</p>
               <p style={{marginBottom: 2 + 'em'}}> Not only do we strive to have THE tattoo shop of web3 but we seek to become one of the most world renowned tattoo shops in the real world. A tattoo shop where our community members can come get inked up, using our $STZ token. With almost two decades of tattoo experience our team member Andreas Ishak is no stranger to building a high end tattoo studio.</p>
-              <h2>Initial Utility of $STZ</h2>
-              <p><b>1.	MTC online merch shop</b></p>
-              <p><b>2.	Treasure chest’s</b></p>
-              <p><b>3.	Real life tattoo shop</b></p>
-              <p style={{marginBottom: 2 + 'em'}}><b>4.	Secondary giveaways. In order to access your prizes you must unlock them with a bit of $STZ.</b></p>
               <h3>Our Guiding Star</h3>
               <p style={{marginBottom: 2 + 'em'}}>Our guiding star is to have a community of like minded individuals, who can interact with one another in the real world and a virtual reality world, use our $STZ coin as a form of currency and get rewarded through our utilities.</p>
             </div>
