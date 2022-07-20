@@ -29,8 +29,8 @@ body {
 }
 .vid {
     height: 70vh;
-    margin-top: -5em;
     padding-left: 7em;
+    padding-bottom: 5em;
 }
 .fixed-bot-pages {
     width: 200px;

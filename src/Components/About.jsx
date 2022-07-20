@@ -1,6 +1,7 @@
 import React from "react";
 import "./About.css";
 import vid from "../../src/Assets/vid.mp4";
+import Matrix from "../../src/Components/Matrix.js"
 
 function About() {
   return (
